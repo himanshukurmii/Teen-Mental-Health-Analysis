@@ -142,7 +142,7 @@ This project helps students, parents, schools, and researchers understand the im
 
 ## Author
 
-**Himanshu**
+**Himanshu_Gangwar**
 
-BCA Final Year Student  
+MCA Student  
 Data Analytics & Automation Enthusiast
